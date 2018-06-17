@@ -1,0 +1,2 @@
+<?Pphp
+phpinfo();
